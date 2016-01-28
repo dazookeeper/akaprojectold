@@ -1,0 +1,9 @@
+#logo {
+	font-family: Arial;
+	font-size: 55px;
+	font-weight: bold;
+}
+#searchbar {
+	padding: 20px;
+	box-shadow: 10px 10px 5px #888888;
+}
