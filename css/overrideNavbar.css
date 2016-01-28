@@ -19,6 +19,13 @@ body {
     font-size: 21px;
 }
 
+.fix-down {
+    display: block;
+    float: bottom;
+    position: fixed;
+    bottom: 5%;
+}
+
 /* Customize the nav-justified links to be fill the entire space of the .navbar */
 
 .nav-justified {
